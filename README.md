@@ -1,11 +1,17 @@
-- 👋 Hi, I’m @Nahokeel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hi, I'm Ko Han</h1>
+<h1 align="center">Welcome to my GitHub profile!</h1>
 
+<p align="center">
+  <img src="https://media.tenor.com/oJasUXrxtxMAAAAC/happy-dance.gif" alt="Happy Dance GIF">
+</p>
+
+<p align="center">
+  <strong><a href="https://x.com/lee_khn26">Twitter</a></strong> |
+  <strong><a href="https://www.linkedin.com/in/ko-han-lee-5a309332b/">LinkedIn</a></strong>
+</p>
+
+<p align="center">Currently working on my studies~</p>
+<p align="center">😸Love anything cat related😼</p>
 <!---
 Nahokeel/Nahokeel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
