@@ -2,7 +2,7 @@
 <h1 align="center">Welcome to my GitHub profile!</h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/oJasUXrxtxMAAAAC/happy-dance.gif" alt="Happy Dance GIF">
+  <img src="https://github.com/Nahokeel/Nahokeel/blob/main/mochi.gif?raw=true" alt="Alt Text">
 </p>
 
 <p align="center">
